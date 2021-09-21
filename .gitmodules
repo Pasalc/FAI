@@ -1,0 +1,3 @@
+[submodule "numpy-100"]
+	path = numpy-100
+	url = https://github.com/Pasalc/numpy-100
