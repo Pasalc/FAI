@@ -1,3 +1,6 @@
 [submodule "numpy-100"]
 	path = numpy-100
 	url = https://github.com/Pasalc/numpy-100
+[submodule "mlcourse.ai"]
+	path = mlcourse.ai
+	url = https://github.com/Pasalc/mlcourse.ai
