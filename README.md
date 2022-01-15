@@ -1,4 +1,8 @@
 Фундаментальные концепции искусственного интеллекта
+# DeepFake:
+https://youtu.be/lyWGKZIiL7I
+# LCD:
+https://youtu.be/CgQ3XypXDio
 # Датасет:
 https://www.kaggle.com/Cornell-University/arxiv - Метаданные 1.7 миллионов статей с сайта arXiv в формате json.
 
